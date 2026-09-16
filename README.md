@@ -60,9 +60,9 @@ Built solo — design, frontend, backend API, database schema, payments, email f
 
 <!-- Add images to a screenshots/ folder and reference them below -->
 
-| Tenant Signup Flow | Admin Billing Dashboard | Subscription Lifecycle View |
+| Tenant Signup Flow | Admin Billing Dashboard | Tenant Management |
 |---|---|---|
-| ![Signup](./screenshots/sign-up.png) | ![Admin dashboard](./screenshots/admin.png) | ![Lifecycle](./screenshots/lifecycle.png) |
+| ![Signup](./screenshots/sign-up.png) | ![Admin dashboard](./screenshots/admin.png) | ![Tenants](./screenshots/tenants.png) |
 
 | Tenant Portal (Invoices/Renewals) | Plan/Catalog Management | Webhook Management |
 |---|---|---|
